@@ -1,0 +1,35 @@
+
+/* ----------------
+	 Shop section
+	---------------------*/
+    
+   
+    
+    .shop-item {
+        margin-bottom: 33px;
+        height: 10%;
+        width: 160%;
+        
+
+    }
+    
+    .shop-item img {
+        margin-bottom: 40px;
+        height: 10%;
+        width: 10%;
+    }
+    
+  
+    
+    .shop-item h6 {
+        font-size: 16px;
+        color: #60656b;
+        font-weight: 400;
+        font-style: italic;
+        margin-bottom: 20px;
+    }
+    
+  
+
+
+    
