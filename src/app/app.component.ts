@@ -18,7 +18,7 @@ export class AppComponent {
       proName: 'Samsung Galaxy S8', price : 11000, limit : 10,quantity : 0, image:'/assets/Samsung Galaxy S6 .jpg'
     },
     {
-      proName: 'Huawei P30 Pro.jpg', price : 18000, limit : 10,quantity : 0, image:'assets/Huawei P30 Pro.jpg'
+      proName: 'Huawei P30 Pro', price : 18000, limit : 10,quantity : 0, image:'assets/Huawei P30 Pro.jpg'
     },
     {
       proName: 'Samsung Galaxy J7Star Blue', price : 31000, limit : 10,quantity : 0, image:'/assets/Samsung Galaxy J7Star Blue.jpg'
